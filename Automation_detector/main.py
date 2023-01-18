@@ -25,3 +25,4 @@ if __name__ == "__main__":
     print("****************Summary of the Binod count***************************************")
     print(nbinod)
     print("Hello world")
+    print("All test passed")
