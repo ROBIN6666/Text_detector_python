@@ -24,3 +24,4 @@ if __name__ == "__main__":
                 print('Sorry binod is not available today')
     print("****************Summary of the Binod count***************************************")
     print(nbinod)
+    print("Hello world")
