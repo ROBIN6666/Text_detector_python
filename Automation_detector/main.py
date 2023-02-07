@@ -23,6 +23,7 @@ if __name__ == "__main__":
             else:
                 print('Sorry binod is not available today')
     print("****************Summary of Coding***************************************")
+    print("Pushpa I love u yar")
     print(nbinod)
     print("Hello world")
     print("All test passed")
