@@ -26,5 +26,7 @@ if __name__ == "__main__":
     print("Pushpa I hate u yar")
     print("Hey Love I miss you buddy so much")
     print(nbinod)
+    print("Hawa hawa")
+    print("love")
     print("Hello world")
     print("All test passed")
