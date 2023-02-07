@@ -22,7 +22,7 @@ if __name__ == "__main__":
                 nbinod+=1
             else:
                 print('Sorry binod is not available today')
-    print("****************Summary of the Binod count***************************************")
+    print("****************Summary of Coding***************************************")
     print(nbinod)
     print("Hello world")
     print("All test passed")
