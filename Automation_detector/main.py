@@ -30,3 +30,4 @@ if __name__ == "__main__":
     print("love")
     print("Hello world")
     print("All test passed")
+    print("Life is fun")
